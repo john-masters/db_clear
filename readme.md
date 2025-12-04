@@ -1,5 +1,7 @@
 # db clear
 
+this clears all memory intensive db queries in a mysql db
+
 ## how to use
 
 1. `python3 -m venv .venv`
